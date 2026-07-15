@@ -1,0 +1,7 @@
+{
+  "name": "sxtbox/php-info-ui",
+  "description": "PHP Info UI",
+  "require": {
+    "php": ">=7.4"
+  }
+}
