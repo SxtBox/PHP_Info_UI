@@ -2471,9 +2471,6 @@ TRC4 NEON COMMAND CENTER
 
 </div>
 
-
-
-
 <!--
 ========================================================
  SERVER INFORMATION DASHBOARD ACTION BUTTONS
